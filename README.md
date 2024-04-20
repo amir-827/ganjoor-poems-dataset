@@ -15,5 +15,5 @@ This repository contains a collection of Persian poetry scraped from the Ganjoor
 
 ## Example
 
-Let’s say you have scraped a poem with the link `ganjoor.net/hafez/ghazal/sh354`. In this repository, this poem would be saved in a file located at the following path:
+Let’s say you want to get a poem with the link `ganjoor.net/hafez/ghazal/sh354`. In this repository, this poem would be saved in a file located at the following path:
 `hafez/ghazal/354.txt`
